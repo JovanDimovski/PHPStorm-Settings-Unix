@@ -4,7 +4,7 @@
     <property name="created">2018-05-05T16:33:49</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-05-18T13:05:19</property>
+    <property name="modified">2018-05-18T13:53:25</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -606,13 +606,13 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="858585" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="ff6968" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
@@ -683,6 +683,12 @@
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
+    <option name="DEFAULT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ffd242" />
+        <option name="EFFECT_COLOR" value="ffd242" />
+      </value>
+    </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -717,7 +723,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="858585" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
