@@ -4,7 +4,7 @@
     <property name="created">2018-05-05T16:33:49</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-05-18T13:53:25</property>
+    <property name="modified">2018-05-05T23:24:59</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -22,7 +22,7 @@
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
     <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="383967" />
+    <option name="CARET_ROW_COLOR" value="181818" />
     <option name="CONSOLE_BACKGROUND_KEY" value="212121" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c" />
@@ -49,7 +49,7 @@
     <option name="GUTTER_BACKGROUND" value="d1019" />
     <option name="INDENT_GUIDE" value="1e2330" />
     <option name="INFORMATION_HINT" value="212121" />
-    <option name="LINE_NUMBERS_COLOR" value="7784ba" />
+    <option name="LINE_NUMBERS_COLOR" value="424242" />
     <option name="METHOD_SEPARATORS_COLOR" value="424242" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
@@ -60,8 +60,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="303030" />
     <option name="SELECTED_INDENT_GUIDE" value="676767" />
     <option name="SELECTED_TEARLINE_COLOR" value="616161" />
-    <option name="SELECTION_BACKGROUND" value="b365" />
-    <option name="SELECTION_FOREGROUND" value="0" />
+    <option name="SELECTION_BACKGROUND" value="353535" />
+    <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="303030" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="212121" />
@@ -606,13 +606,13 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="858585" />
+        <option name="FOREGROUND" value="4a4a4a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="ff6968" />
+        <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
@@ -683,12 +683,6 @@
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
-    <option name="DEFAULT_GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="ffd242" />
-        <option name="EFFECT_COLOR" value="ffd242" />
-      </value>
-    </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -723,7 +717,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="858585" />
+        <option name="FOREGROUND" value="4a4a4a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -847,7 +841,7 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ff4040" />
+        <option name="BACKGROUND" value="ff5370" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3713,7 +3707,7 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffb221" />
+        <option name="BACKGROUND" value="ffcb6b" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
