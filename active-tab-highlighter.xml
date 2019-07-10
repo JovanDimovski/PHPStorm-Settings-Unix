@@ -2,9 +2,8 @@
   <component name="ActiveTabHighlighterConfiguration">
     <option name="background">
       <PersistentColor>
-        <option name="enabled" value="true" />
-        <option name="red" value="209" />
-        <option name="green" value="146" />
+        <option name="red" value="0" />
+        <option name="green" value="0" />
         <option name="blue" value="0" />
       </PersistentColor>
     </option>
