@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="NavigationMenu.vue" type="PLAIN_TEXT" />
+      <mapping pattern="RouterLinkExternal.vue" type="PLAIN_TEXT" />
       <mapping pattern="PaymentController.php" type="PLAIN_TEXT" />
       <mapping pattern=".laravel.log.swp" type="PLAIN_TEXT" />
       <mapping pattern=".env.swp" type="PLAIN_TEXT" />
