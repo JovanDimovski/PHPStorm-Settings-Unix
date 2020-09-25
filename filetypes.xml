@@ -1,18 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.swp" type="PLAIN_TEXT" />
       <mapping pattern="NavigationMenu.vue" type="PLAIN_TEXT" />
+      <mapping pattern=".laravel.log.swp" type="PLAIN_TEXT" />
       <mapping pattern="RouterLinkExternal.vue" type="PLAIN_TEXT" />
       <mapping pattern="PaymentController.php" type="PLAIN_TEXT" />
-      <mapping pattern=".laravel.log.swp" type="PLAIN_TEXT" />
-      <mapping pattern=".env.swp" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="List.vue" type="Vue.js" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
