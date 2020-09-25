@@ -1,13 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactMenus" value="true" />
-    <option name="compactStatusBar" value="true" />
-    <option name="compactTables" value="true" />
-    <option name="customTreeIndentEnabled" value="true" />
-    <option name="highlightColorEnabled" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="isHighlightColorEnabled" value="true" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -20,11 +15,11 @@
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="8" />
     <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="84ffff" />
+    <option name="accentColor" value="80cbc4" />
     <option name="highlightColor" value="fefdff" />
-    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="5e67c28d:1655b0d45a4:-7fff" />
-    <option name="version" value="5.2.0" />
+    <option name="version" value="3.10.0" />
     <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
