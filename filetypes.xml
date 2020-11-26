@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="EventsPlanen.vue" type="PLAIN_TEXT" />
-      <mapping pattern="JN2zi7ttG0jqvl7wTDSvUZMHtGwmtHdyVNZwxa4C" type="PLAIN_TEXT" />
       <mapping pattern=".env.swp" type="PLAIN_TEXT" />
+      <mapping pattern="JN2zi7ttG0jqvl7wTDSvUZMHtGwmtHdyVNZwxa4C" type="PLAIN_TEXT" />
       <mapping pattern="NavigationMenu.vue" type="PLAIN_TEXT" />
       <mapping pattern=".laravel.log.swp" type="PLAIN_TEXT" />
       <mapping pattern="RouterLinkExternal.vue" type="PLAIN_TEXT" />
