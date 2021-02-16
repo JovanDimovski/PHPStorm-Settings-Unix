@@ -1,0 +1,24 @@
+<keymap version="1" name="Default copy Proper Redo copy2" parent="Default for XWin">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="shift control alt button1" />
+  </action>
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="EditorLookupDown" />
+  <action id="EditorScrollDown" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt 8" />
+  </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+</keymap>
